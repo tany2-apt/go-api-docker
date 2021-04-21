@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go-restapi-docker.iml" filepath="$PROJECT_DIR$/.idea/go-restapi-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-api-docker.iml" filepath="$PROJECT_DIR$/.idea/go-api-docker.iml" />
     </modules>
   </component>
 </project>
